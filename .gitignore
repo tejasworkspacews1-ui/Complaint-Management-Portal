@@ -1,0 +1,25 @@
+# Java / Maven
+target/
+*.class
+
+# Local database & configuration
+smart_complaint.db
+*.db
+test_temp.db
+db.properties
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local logs / exports
+*.log
+*.csv
