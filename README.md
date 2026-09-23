@@ -65,7 +65,7 @@ See `docs/GALLERY.md` and the screenshots under `docs/gallery/`.
 
 ## Developer & Credits
 **Tejas Kamble**  
-Email: `tejaskgm1@gmail.com`  
+Email: `tejasksocials@gmail.com`  
 Website: https://tejas-personal-portfolio-dev.vercel.app/  
 LinkedIn: https://www.linkedin.com/in/tejas-kamble-5342443b1/  
 GitHub: https://github.com/tejasworkspacews1-ui  
