@@ -1,0 +1,3 @@
+Manifest-Version: 1.0 
+Main-Class: com.smartcomplaint.MainApp 
+Class-Path: lib/flatlaf-3.5.2.jar lib/mysql-connector-j-8.4.0.jar lib/slf4j-api-2.0.12.jar lib/slf4j-simple-2.0.12.jar lib/sqlite-jdbc-3.45.2.0.jar 
