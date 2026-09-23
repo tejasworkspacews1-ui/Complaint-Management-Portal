@@ -1,0 +1,11 @@
+# Example only. Do not commit real credentials.
+db.type=sqlite
+db.path=${user.home}/.smartcomplaintportal/smart_complaint.db
+
+# MySQL example:
+# db.type=mysql
+# db.host=localhost
+# db.port=3306
+# db.name=smart_complaint_db
+# db.username=your_username
+# db.password=your_password

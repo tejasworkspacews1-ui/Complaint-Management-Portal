@@ -35,8 +35,8 @@ This application currently utilizes a **2-Tier Architecture** (Desktop directly 
     .\run.bat
     ```
 
-## Default Accounts 🔑
-*   **Super Admin:** `tejasksocials@gmail.com` / `Admin$2007` (Access to all spaces and global Master View)
+## Initial Setup 🔑
+*   **Super Admin:** The first user to register on the platform must be configured via the database backend to gain global `ADMIN` privileges.
 *   **Space Moderator:** Create a new Space from the Register screen to automatically be assigned Moderator privileges for that specific Space.
 
 ---
